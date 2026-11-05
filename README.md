@@ -1,4 +1,5 @@
 Crop Advisory Recommendation System — CropAdvisor
+
 A browser-based crop-condition advisory and image-enhancement prototype with a Python backend and SQLite storage. The interface supports condition inputs, rule-derived Random Forest/SVM predictions, browser photo enhancement, and optional Gemini or Groq vision analysis.
 Important Implementation Distinction
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/f4bbb1f6-8021-4c46-bdd6-682776084210" />
